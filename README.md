@@ -4,7 +4,7 @@
 
 > 🤖 Aspiring computer scientist with a love for sharing the wonders of Machine Learning on YouTube! 🎥❤️
 
-# Videos
+## Videos
 
 | Repo                                             | Video  | Article | Code | 
 | --------------------------------------------------- | ---------- | ----------- | ----------- |
