@@ -13,8 +13,7 @@
 
 
 ## Support The Channel!
-If you enjoy this YouTube Series, please consider subscribing ❤️ or buying me a cup of coffee! ☕️
+If you enjoy this YouTube Series, please consider subscribing! ❤️
 
 <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.buymeacoffee.com/olivercarmont">Buy me a coffee ☕</a>
 
