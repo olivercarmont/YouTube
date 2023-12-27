@@ -1,9 +1,5 @@
 # [**YouTube: "My ML Engineer Journey"**](https://www.youtube.com/@olivercarmont)
 
-<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
-      <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>10</a> 
-<a href="https://www.youtube.com/channel/UClxKfQvYp5U-jmvM0hbj9eA"><img alt="YouTube Views" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=Views&style=for-the-badge&color=red&labelColor=ce4630#"/></a>
-
 ### About Me 😃
 
 > 🤖 I'm an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) ❤️
@@ -16,8 +12,9 @@
 | [**Create an AI-Powered, Video Summarizer App**](https://www.youtube.com/watch?v=p1xBjx6rnmA&t=984s&ab_channel=OliverCarmont) 🎥 | 📈⁠ ⁠9 | [**YouTube**](https://www.youtube.com/watch?v=p1xBjx6rnmA&t=984s&ab_channel=OliverCarmont)    |   | [**Github**](https://github.com/olivercarmont/youtube-video-summarizer-app/tree/main)        |
 
 
-## Support Me
+## Support The Channel!
 If you enjoy this YouTube Series, please consider subscribing ❤️ or buying me a cup of coffee! ☕️
 
-Youtube Patreon
+<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/olivercarmont">Buy me a coffee ☕</a>
 
