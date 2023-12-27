@@ -2,9 +2,9 @@
 
 ### About Me
 
-Aspiring computer scientist with a love for sharing the wonders of Machine Learning on YouTube!
+🤖 Aspiring computer scientist with a love for sharing the wonders of Machine Learning on YouTube! 🎥❤️
 
-# Hubs
+# Videos
 
 | Repo                                             | Video  | Article | Code | 
 | --------------------------------------------------- | ---------- | ----------- | ----------- |
