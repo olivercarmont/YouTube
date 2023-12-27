@@ -1,4 +1,4 @@
-# [**YouTube: "My ML Engineer Journey"**](https://www.youtube.com/@olivercarmont3792)
+# [**YouTube: "My ML Engineer Journey"**](https://www.youtube.com/@olivercarmont)
 
 ### About Me 😃
 
