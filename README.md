@@ -2,7 +2,7 @@
 
 ### About Me 😃
 
-> 🤖 I;m an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) ❤️
+> 🤖 I'm an aspiring ML Engineer sharing my learnings on ML/AI on [**YouTube!**](https://www.youtube.com/@olivercarmont) ❤️
 
 ## Videos
 
