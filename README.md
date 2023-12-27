@@ -1,7 +1,7 @@
 # [**YouTube: "My ML Engineer Journey"**](https://www.youtube.com/@olivercarmont)
 
 <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1">
-      <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+      <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>10</a> 
     <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
       <img alt="YouTubeViews" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
 
