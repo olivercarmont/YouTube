@@ -1,6 +1,6 @@
-# [**YouTube ▶️**](https://www.youtube.com/@olivercarmont3792)
+# [**YouTube**](https://www.youtube.com/@olivercarmont3792)
 
-### About Me
+### About Me 😃
 
 > 🤖 Aspiring computer scientist with a love for sharing the wonders of Machine Learning on YouTube! 🎥❤️
 
